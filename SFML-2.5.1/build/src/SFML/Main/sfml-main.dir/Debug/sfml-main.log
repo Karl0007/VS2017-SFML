@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/source sfml/SFML-2.5.1/src/SFML/Main/CMakeLists.txt
+  CMake does not need to re-run because D:/source sfml/SFML-2.5.1/build/src/SFML/Main/CMakeFiles/generate.stamp is up-to-date.
+  MainWin32.cpp
+  sfml-main.vcxproj -> D:\source sfml\SFML-2.5.1\build\lib\Debug\sfml-main-d.lib

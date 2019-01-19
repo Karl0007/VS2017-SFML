@@ -1,0 +1,25 @@
+﻿  Building Custom Rule D:/source sfml/SFML-2.5.1/src/SFML/Audio/CMakeLists.txt
+  CMake does not need to re-run because D:/source sfml/SFML-2.5.1/build/src/SFML/Audio/CMakeFiles/generate.stamp is up-to-date.
+  ALCheck.cpp
+  AlResource.cpp
+  AudioDevice.cpp
+  Listener.cpp
+  Music.cpp
+  Sound.cpp
+  SoundBuffer.cpp
+  SoundBufferRecorder.cpp
+  InputSoundFile.cpp
+  OutputSoundFile.cpp
+  SoundRecorder.cpp
+  SoundSource.cpp
+  SoundStream.cpp
+  SoundFileFactory.cpp
+  SoundFileReaderFlac.cpp
+  SoundFileReaderOgg.cpp
+  SoundFileReaderWav.cpp
+  SoundFileWriterFlac.cpp
+  SoundFileWriterOgg.cpp
+  SoundFileWriterWav.cpp
+  正在生成代码...
+    正在创建库 D:/source sfml/SFML-2.5.1/build/lib/Debug/sfml-audio-d.lib 和对象 D:/source sfml/SFML-2.5.1/build/lib/Debug/sfml-audio-d.exp
+  sfml-audio.vcxproj -> D:\source sfml\SFML-2.5.1\build\lib\Debug\sfml-audio-d-2.dll

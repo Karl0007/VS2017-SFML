@@ -1,0 +1,19 @@
+﻿  Building Custom Rule D:/source sfml/SFML-2.5.1/src/SFML/Network/CMakeLists.txt
+  CMake does not need to re-run because D:/source sfml/SFML-2.5.1/build/src/SFML/Network/CMakeFiles/generate.stamp is up-to-date.
+  Ftp.cpp
+  Http.cpp
+  IpAddress.cpp
+D:\source sfml\SFML-2.5.1\src\SFML\Network\IpAddress.cpp(92): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winsock2.h(1849): note: 参见“inet_ntoa”的声明
+D:\source sfml\SFML-2.5.1\src\SFML\Network\IpAddress.cpp(184): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+  Packet.cpp
+  Socket.cpp
+  SocketSelector.cpp
+  TcpListener.cpp
+  TcpSocket.cpp
+  UdpSocket.cpp
+  SocketImpl.cpp
+  正在生成代码...
+    正在创建库 D:/source sfml/SFML-2.5.1/build/lib/Debug/sfml-network-d.lib 和对象 D:/source sfml/SFML-2.5.1/build/lib/Debug/sfml-network-d.exp
+  sfml-network.vcxproj -> D:\source sfml\SFML-2.5.1\build\lib\Debug\sfml-network-d-2.dll

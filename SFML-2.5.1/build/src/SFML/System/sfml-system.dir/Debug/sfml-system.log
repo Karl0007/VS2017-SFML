@@ -1,0 +1,23 @@
+﻿  Building Custom Rule D:/source sfml/SFML-2.5.1/src/SFML/System/CMakeLists.txt
+  CMake does not need to re-run because D:/source sfml/SFML-2.5.1/build/src/SFML/System/CMakeFiles/generate.stamp is up-to-date.
+  Clock.cpp
+  Err.cpp
+  Lock.cpp
+  Mutex.cpp
+  Sleep.cpp
+  String.cpp
+  Thread.cpp
+  ThreadLocal.cpp
+  Time.cpp
+  FileInputStream.cpp
+  MemoryInputStream.cpp
+  ClockImpl.cpp
+D:\source sfml\SFML-2.5.1\src\SFML\System\Win32\ClockImpl.cpp(46): warning C4996: 'GetVersion': 被声明为已否决
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\sysinfoapi.h(135): note: 参见“GetVersion”的声明
+  MutexImpl.cpp
+  SleepImpl.cpp
+  ThreadImpl.cpp
+  ThreadLocalImpl.cpp
+  正在生成代码...
+    正在创建库 D:/source sfml/SFML-2.5.1/build/lib/Debug/sfml-system-d.lib 和对象 D:/source sfml/SFML-2.5.1/build/lib/Debug/sfml-system-d.exp
+  sfml-system.vcxproj -> D:\source sfml\SFML-2.5.1\build\lib\Debug\sfml-system-d-2.dll

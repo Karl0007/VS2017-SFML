@@ -1,0 +1,38 @@
+﻿  Building Custom Rule D:/source sfml/SFML-2.5.1/src/SFML/Graphics/CMakeLists.txt
+  CMake does not need to re-run because D:/source sfml/SFML-2.5.1/build/src/SFML/Graphics/CMakeFiles/generate.stamp is up-to-date.
+  BlendMode.cpp
+  Color.cpp
+  Font.cpp
+  Glsl.cpp
+  GLCheck.cpp
+  GLExtensions.cpp
+  Image.cpp
+  ImageLoader.cpp
+  RenderStates.cpp
+  RenderTexture.cpp
+  RenderTarget.cpp
+  RenderWindow.cpp
+  Shader.cpp
+  Texture.cpp
+  TextureSaver.cpp
+  Transform.cpp
+  Transformable.cpp
+  View.cpp
+  Vertex.cpp
+  GLLoader.cpp
+  正在生成代码...
+  正在编译...
+  Shape.cpp
+  CircleShape.cpp
+  RectangleShape.cpp
+  ConvexShape.cpp
+  Sprite.cpp
+  Text.cpp
+  VertexArray.cpp
+  VertexBuffer.cpp
+  RenderTextureImpl.cpp
+  RenderTextureImplFBO.cpp
+  RenderTextureImplDefault.cpp
+  正在生成代码...
+    正在创建库 D:/source sfml/SFML-2.5.1/build/lib/Debug/sfml-graphics-d.lib 和对象 D:/source sfml/SFML-2.5.1/build/lib/Debug/sfml-graphics-d.exp
+  sfml-graphics.vcxproj -> D:\source sfml\SFML-2.5.1\build\lib\Debug\sfml-graphics-d-2.dll

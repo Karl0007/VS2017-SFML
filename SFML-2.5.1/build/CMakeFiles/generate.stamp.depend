@@ -1,0 +1,32 @@
+# CMake generation dependency list for this directory.
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/CMakeCInformation.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/CMakeCXXInformation.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/CMakeCommonLanguageInclude.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/CMakeGenericSystem.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/CMakeInitializeConfigs.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/CMakeLanguageInformation.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/CMakePackageConfigHelpers.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/CMakeRCInformation.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/CMakeSystemSpecificInformation.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/CMakeSystemSpecificInitialize.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/CheckIncludeFile.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/CheckIncludeFileCXX.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/CheckTypeSize.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/Compiler/MSVC-C.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/Compiler/MSVC-CXX.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/Platform/Windows-MSVC-C.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/Platform/Windows-MSVC.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/Platform/Windows.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/Platform/WindowsPaths.cmake
+D:/cmake-3.13.3-win64-x64/share/cmake-3.13/Modules/WriteBasicConfigVersionFile.cmake
+D:/source sfml/SFML-2.5.1/CMakeLists.txt
+D:/source sfml/SFML-2.5.1/build/CMakeFiles/3.13.3/CMakeCCompiler.cmake
+D:/source sfml/SFML-2.5.1/build/CMakeFiles/3.13.3/CMakeCXXCompiler.cmake
+D:/source sfml/SFML-2.5.1/build/CMakeFiles/3.13.3/CMakeRCCompiler.cmake
+D:/source sfml/SFML-2.5.1/build/CMakeFiles/3.13.3/CMakeSystem.cmake
+D:/source sfml/SFML-2.5.1/cmake/Config.cmake
+D:/source sfml/SFML-2.5.1/cmake/SFMLConfig.cmake.in
+D:/source sfml/SFML-2.5.1/cmake/SFMLConfigDependencies.cmake.in

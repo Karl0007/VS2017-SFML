@@ -1,0 +1,31 @@
+﻿  Building Custom Rule D:/source sfml/SFML-2.5.1/src/SFML/Window/CMakeLists.txt
+  CMake does not need to re-run because D:/source sfml/SFML-2.5.1/build/src/SFML/Window/CMakeFiles/generate.stamp is up-to-date.
+  Clipboard.cpp
+  Context.cpp
+  Cursor.cpp
+  GlContext.cpp
+  GlResource.cpp
+  Joystick.cpp
+  JoystickManager.cpp
+  Keyboard.cpp
+  Mouse.cpp
+  Touch.cpp
+  Sensor.cpp
+  SensorManager.cpp
+  VideoMode.cpp
+  Window.cpp
+  WindowImpl.cpp
+  CursorImpl.cpp
+  ClipboardImpl.cpp
+  WglContext.cpp
+  WglExtensions.cpp
+  InputImpl.cpp
+  正在生成代码...
+  正在编译...
+  JoystickImpl.cpp
+  SensorImpl.cpp
+  VideoModeImpl.cpp
+  WindowImplWin32.cpp
+  正在生成代码...
+    正在创建库 D:/source sfml/SFML-2.5.1/build/lib/Debug/sfml-window-d.lib 和对象 D:/source sfml/SFML-2.5.1/build/lib/Debug/sfml-window-d.exp
+  sfml-window.vcxproj -> D:\source sfml\SFML-2.5.1\build\lib\Debug\sfml-window-d-2.dll
